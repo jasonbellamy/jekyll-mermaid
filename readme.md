@@ -12,7 +12,8 @@ A [Jekyll](http://jekyllrb.com/) plugin to simplify the creation of [mermaid](ht
 
 2. Add the gem to your Jekyll `_config.yml`:
   ```ruby
-  gems: [jekyll-mermaid]
+  plugins:
+    - jekyll-mermaid
   ```
 
 Please see the [Jekyll documentation](http://jekyllrb.com/docs/plugins/#installing-a-plugin) for more installation options.
